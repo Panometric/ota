@@ -1,7 +1,0 @@
-{
-    "type": "HVACGateway",
-    "version": 2,
-    "host": "https://github.com",
-    "port": 443,
-    "bin": "/Panometric/ota/raw/master/HVACGateway_2.bin"
-}
